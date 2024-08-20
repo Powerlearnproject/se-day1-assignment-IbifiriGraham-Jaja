@@ -10,6 +10,7 @@ Software Engineering is a disciplined approach to designing, developing, maintai
 Software engineering is foundational to the technology industry because it ensures that software is developed systematically, meets user needs, and adheres to high standards of quality, security, and efficiency. This, in turn, drives innovation, supports business growth, and enhances the user experience
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Key milestones include; The formal recognition of software engineering as a distinct field in the 1960s: Recognition of software engineering as a formal discipline to improve software development practices.
 2.The introduction of structured programming techniques in the 1970s: Introduction of methods to improve code clarity and maintainability through structured design and modularity.
 3.And the emergence of agile methodologies in the 2000s:Emergence of flexible and iterative approaches to software development, emphasizing collaboration and adaptability.
